@@ -6,7 +6,7 @@
 <h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
     Today, WE DID OUR 1ST DEPLOYMENT USING JENKINS FREESTYLE JOB
 </h1>
-<h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
+<h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
     Doing AUTOMATION using GIT WEBHOOK Concept
 </h1>
 </body>
