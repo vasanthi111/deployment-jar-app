@@ -13,7 +13,10 @@
    I am saving my version in Nexus
 </h1>
 <h1 style="font-weight: bold; color: brown; font-size: 30px; text-align: center;">
-  Till Now we have Completed Jenkins Integration with Maven, Git & Nexus
+  Till Now we have Completed Jenkins Integration with Maven, Git & Nexus, SONAR
+</h1>
+<h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
+  We have Completed the End to End Jenkins Deployment
 </h1>
 </body>
 </html>
